@@ -1,4 +1,4 @@
-# Åk 4 Öva
+# Matematik åk4
 
 Android practice app for Swedish year 4. It has 400 mathematics questions, 100 Swedish questions, and 100 science (NO) questions. Every question has an answer key.
 

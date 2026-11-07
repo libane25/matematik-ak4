@@ -97,7 +97,7 @@ private fun HomeScreen(
 ) {
     val week = store.thisWeek
     val math = week.bySubject["Matematik"] ?: SubjectStat()
-    Scaffold(topBar = { TopAppBar(title = { Text("Åk 4 Öva") }) }) { padding ->
+    Scaffold(topBar = { TopAppBar(title = { Text("Matematik åk4") }) }) { padding ->
         Column(
             modifier = Modifier
                 .padding(padding)
